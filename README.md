@@ -1,4 +1,4 @@
-AME 211 Final Project Portfolio.pdf Description:
+AME 211 Final Project.pdf Description:
 
 28 Part (16 unique) Assembly of a Long Board Truck.
 Includes a CNC Manufacturing process, Force Load FEA Simulation, 
